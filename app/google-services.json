@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67179220005",
+    "project_id": "wizly-video",
+    "storage_bucket": "wizly-video.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67179220005:android:174930d9b01297109543cc",
+        "android_client_info": {
+          "package_name": "com.application.android.wizlyvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67179220005-gj8l046b173e4ee4e1i83htg746lam5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAKLkEPhZ-8MKGRK0IjB6vML2YRUJH-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67179220005-gj8l046b173e4ee4e1i83htg746lam5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer:2.10.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d4b2e9c679b0dd36518f4b354ba54868/jetified-exoplayer-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/dbb34100ec4f514240d55e22516ed283/jetified-exoplayer-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07c4312ed1a0146c204d863dab002932/jetified-exoplayer-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2ffc26214baa5c000119a6011c526305/jetified-exoplayer-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/caa481ab7457decd4a258fe6f06adaaa/jetified-exoplayer-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2b3041e5b84ebe6c227639d3305683f/jetified-exoplayer-2.10.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2b3041e5b84ebe6c227639d3305683f/jetified-exoplayer-2.10.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c2b3041e5b84ebe6c227639d3305683f/jetified-exoplayer-2.10.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/2.10.6/e7b7d37e0383f0ade88c114bfe6613ae96bcc345/exoplayer-2.10.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/2.10.6/e7b7d37e0383f0ade88c114bfe6613ae96bcc345/exoplayer-2.10.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

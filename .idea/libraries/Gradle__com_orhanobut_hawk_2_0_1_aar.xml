@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.orhanobut:hawk:2.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b495650290718b32ec6acd274ebe7f7/jetified-hawk-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78d9ad93276e63fa9502f0ac7e8d1c13/jetified-hawk-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81ec5b7bb79d9b738ae20b90909e387c/jetified-hawk-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/863f13e15b3428ae8aba83092f4a4ff0/jetified-hawk-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36a718a62f08f6546a1a0493848bdf36/jetified-hawk-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebe36c7d44f5cd6957b67afb889977d0/jetified-hawk-2.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebe36c7d44f5cd6957b67afb889977d0/jetified-hawk-2.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebe36c7d44f5cd6957b67afb889977d0/jetified-hawk-2.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/hawk/2.0.1/46f8f5a433cdfeac8967bbffbddc9a80df73538c/hawk-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/hawk/2.0.1/c88542f56b91ba489723bb6f58f14a303e953d64/hawk-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

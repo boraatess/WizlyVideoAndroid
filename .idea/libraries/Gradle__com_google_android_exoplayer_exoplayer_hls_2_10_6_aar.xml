@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.10.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/971e5033c9ca3bef75fdf10facac8f14/jetified-exoplayer-hls-2.10.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9232cb27dd7dbf0f041622afd6eb049c/jetified-exoplayer-hls-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41633ebe2617581f5b20a43392b59c52/jetified-exoplayer-hls-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cb5925ae587c59d06ab66c3fdb02cfe/jetified-exoplayer-hls-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0759277becf38ceb325ac579665d278b/jetified-exoplayer-hls-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a509ca7d0bc423e8bf3457274d8f40a/jetified-exoplayer-hls-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/971e5033c9ca3bef75fdf10facac8f14/jetified-exoplayer-hls-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/971e5033c9ca3bef75fdf10facac8f14/jetified-exoplayer-hls-2.10.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/971e5033c9ca3bef75fdf10facac8f14/jetified-exoplayer-hls-2.10.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.10.6/911802e20de619d78c0e89c885baeab9cf773fb0/exoplayer-hls-2.10.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-hls/2.10.6/6ed29fecd60af1e82797355bb1fbce8adcc546f7/exoplayer-hls-2.10.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-core:2.10.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4415f52a50287f2d42f4cd6d1ed35a82/jetified-exoplayer-core-2.10.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9ca5a43a4b263457e6e4bfa71467ec79/jetified-exoplayer-core-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9550e46674182dcd926aac56953c1ca/jetified-exoplayer-core-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4f1e66960df649b1ed5aefb7da1b569/jetified-exoplayer-core-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2d7e7cda88e73503bee015f0d3abb43f/jetified-exoplayer-core-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/87033907abee8348970c5b5faf1f7252/jetified-exoplayer-core-2.10.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4415f52a50287f2d42f4cd6d1ed35a82/jetified-exoplayer-core-2.10.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4415f52a50287f2d42f4cd6d1ed35a82/jetified-exoplayer-core-2.10.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4415f52a50287f2d42f4cd6d1ed35a82/jetified-exoplayer-core-2.10.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.6/773b6a82a90d29283860998c2f13ea06a8c1a8d0/exoplayer-core-2.10.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer-core/2.10.6/b8955cb0ed2205d9321e4e4e50a6250f45b2eef6/exoplayer-core-2.10.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
