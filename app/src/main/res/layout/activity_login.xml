@@ -188,8 +188,33 @@
                             android:text="Telefon Numaran ile Giriş Yap"
                             android:layout_width="match_parent"
                             android:layout_height="40dp" />
-                    </RelativeLayout>
 
+                    </RelativeLayout>
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Gizlilik Politikası"
+                        android:textSize="20sp"
+                        android:id="@+id/privactTextview"
+                        android:layout_marginLeft="15dp"
+                        android:textColor="@color/colorGradient"
+                        >
+                    </TextView>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Şartlar ve Koşullar"
+                        android:textSize="20sp"
+                        android:id="@+id/termsconditions"
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginBottom="-10dp"
+                        android:textColor="@color/blue"
+                        >
+                    </TextView>
                 </RelativeLayout>
             </LinearLayout>
             <LinearLayout
@@ -247,7 +272,7 @@
                             android:gravity="center"
                             android:textStyle="bold"
                             android:textColor="@color/white"
-                            android:text="Continue"
+                            android:text="Devam"
                             android:layout_width="match_parent"
                             android:layout_height="40dp" />
                     </RelativeLayout>

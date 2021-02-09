@@ -21,6 +21,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.application.android.wizlyvideo.Provider.PrefManager;
 import com.application.android.wizlyvideo.R;
+import com.application.android.wizlyvideo.TermsAndConditionsActivity;
 import com.application.android.wizlyvideo.api.apiClient;
 import com.application.android.wizlyvideo.api.apiRest;
 import com.application.android.wizlyvideo.entity.ApiResponse;
@@ -90,6 +91,7 @@ public class LoginActivity extends AppCompatActivity implements GoogleApiClient.
     private EditText edit_text_name_login_acitivty;
     private String phoneNum ="";
     private PrefManager prf;
+    private TextView privacyTV,termsnconditions;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -107,6 +109,22 @@ public class LoginActivity extends AppCompatActivity implements GoogleApiClient.
         initAction();
         FaceookSignIn();
         GoogleSignIn();
+
+        privacyTV.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this,PrivacyPolicyActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        termsnconditions.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, TermsAndConditionsActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     public void initView()
@@ -126,6 +144,8 @@ public class LoginActivity extends AppCompatActivity implements GoogleApiClient.
         this.linear_layout_name_input_login_activity =      (LinearLayout)   findViewById(R.id.linear_layout_name_input_login_activity);
         this.relative_layout_confirm_full_name =      (RelativeLayout)   findViewById(R.id.relative_layout_confirm_full_name);
         this.countryCodePicker =      (CountryCodePicker)   findViewById(R.id.CountryCodePicker);
+        privacyTV = findViewById(R.id.privactTextview);
+        termsnconditions = findViewById(R.id.termsconditions);
     }
     public void initAction(){
 

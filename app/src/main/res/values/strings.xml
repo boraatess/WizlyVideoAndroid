@@ -47,81 +47,81 @@
     <string name="on">Açık</string>
     <string name="loading_subtitles">Altyazı yükleniyor ... </string>
     <string name="for_you">Senin için</string>
-    <string name = "search_about_actors"> Burada oyuncular hakkında arama yapın </string>
-    <string name = "account_disabled"> Bu hesap devre dışı bırakıldı </string>
-    <string name = "operation_progress"> İşlemler devam ediyor, lütfen bekleyin. </string>
-    <string name = "get_this_movie_here"> Bu filmi aşağıdaki bağlantıdan edinin: </string>
-    <string name = "get_this_tv_show_here"> Bu tv şovunu aşağıdaki bağlantıdan edinin: </string>
+    <string name="search_about_actors"> Burada oyuncular hakkında arama yapın </string>
+    <string name="account_disabled"> Bu hesap devre dışı bırakıldı </string>
+    <string name="operation_progress"> İşlemler devam ediyor, lütfen bekleyin. </string>
+    <string name="get_this_movie_here"> Bu filmi aşağıdaki bağlantıdan edinin: </string>
+    <string name="get_this_tv_show_here"> Bu tv şovunu aşağıdaki bağlantıdan edinin: </string>
 
-    <string name = "get_this_serie_here"> Daha fazla diziyi buradan edinin </string>
-    <string name = "get_this_channel_here"> Bu kanalı aşağıdaki bağlantıdan alın </string>
+    <string name="get_this_serie_here"> Daha fazla diziyi buradan edinin </string>
+    <string name="get_this_channel_here"> Bu kanalı aşağıdaki bağlantıdan alın </string>
 
-    <string name = "file_has_been_downloaded"> Dosya başarıyla indirildi </string>
-    <string name = "İndirildi"> Başarıyla indirildi </string>
-    <string name = "exit"> Çıkış </string>
-    <string name = "policy_privacy"> Politika gizliliği </string>
-    <string name = "action_rate"> Uygulamayı Değerlendir </string>
+    <string name="file_has_been_downloaded"> Dosya başarıyla indirildi </string>
+    <string name="İndirildi"> Başarıyla indirildi </string>
+    <string name="exit"> Çıkış </string>
+    <string name="policy_privacy"> Politika gizliliği </string>
+    <string name="action_rate"> Uygulamayı Değerlendir </string>
     <string name="action_support"><![CDATA[Hata bildir & Yardım]]></string>
-    <string name = "share_this_app"> Bu Uygulamayı Paylaşın </string>
-    <string name = "my_profile"> Profilim </string>
-    <string name = "Logout"> Çıkış </string>
-    <string name = "login"> Giriş / Kayıt </string>
-    <string name = "subscribe"> Abone ol </string>
-    <string name = "later"> Daha sonra </string>
-    <string name = "please_login"> Hesabınıza giriş yapın </string>
-    <string name = "message_logout"> Başarıyla çıkış yaptınız </string>
-    <string name = "hint_name"> Tam Ad </string>
-    <string name = "update_my_profile"> PROFİLİMİ GÜNCELLE </string>
-    <string name = "error_short_value"> Bu değer çok kısa, lütfen doğru değeri girin </string>
-    <string name = "infos_updated_successfully"> bilgileriniz başarıyla güncellendi </string>
-    <string name = "rate_this_channel"> Bu kanalı değerlendirin </string>
-    <string name = "rate_this_serie_tv"> Bu diziyi değerlendirin </string>
-    <string name = "rate_this_movie"> Bu filmi değerlendirin </string>
-    <string name = "channel_added_fav"> Bu kanal listenize eklendi </string>
-    <string name = "channel_removed_fav"> Bu kanal, listenizden kaldırıldı </string>
-    <string name = "website"> Web sitesi </string>
-    <string name = "update_now"> Şimdi Güncelle </string>
-    <string name = "skip"> Atla </string>
-    <string name = "title_notification"> Anlık bildirimi etkinleştir </string>
-    <string name = "label_notification"> Anlık bildirim alın </string>
-    <string name = "clear_cache"> Önbelleği Temizle </string>
-    <string name = "label_cache"> Yerel olarak önbelleğe alınmış resimleri temizleyin. Şu anda: </string>
-    <string name = "contact_us"> Bize ulaşın </string>
-    <string name = "version_label"> Sürüm </string>
-    <string name = "enable_subtitles"> Altyazıları etkinleştir </string>
-    <string name = "hint_email"> E-posta </string>
-    <string name = "hint_message"> Mesajınız </string>
-    <string name = "send_support"> Mesaj Gönder </string>
-    <string name = "message_sended"> Mesaj başarıyla gönderildi </string>
-    <string name = "error_mail_valide"> Lütfen geçerli bir E-posta girin </string>
+    <string name="share_this_app"> Bu Uygulamayı Paylaşın </string>
+    <string name="my_profile"> Profilim </string>
+    <string name="Logout"> Çıkış </string>
+    <string name="login"> Giriş / Kayıt </string>
+    <string name="subscribe"> Abone ol </string>
+    <string name="later"> Daha sonra </string>
+    <string name="please_login"> Hesabınıza giriş yapın </string>
+    <string name="message_logout"> Başarıyla çıkış yaptınız </string>
+    <string name="hint_name"> Tam Ad </string>
+    <string name="update_my_profile"> PROFİLİMİ GÜNCELLE </string>
+    <string name="error_short_value"> Bu değer çok kısa, lütfen doğru değeri girin </string>
+    <string name="infos_updated_successfully"> bilgileriniz başarıyla güncellendi </string>
+    <string name="rate_this_channel"> Bu kanalı değerlendirin </string>
+    <string name="rate_this_serie_tv"> Bu diziyi değerlendirin </string>
+    <string name="rate_this_movie"> Bu filmi değerlendirin </string>
+    <string name="channel_added_fav"> Bu kanal listenize eklendi </string>
+    <string name="channel_removed_fav"> Bu kanal, listenizden kaldırıldı </string>
+    <string name="website"> Web sitesi </string>
+    <string name="update_now"> Şimdi Güncelle </string>
+    <string name="skip"> Atla </string>
+    <string name="title_notification"> Anlık bildirimi etkinleştir </string>
+    <string name="label_notification"> Anlık bildirim alın </string>
+    <string name="clear_cache"> Önbelleği Temizle </string>
+    <string name="label_cache"> Yerel olarak önbelleğe alınmış resimleri temizleyin. Şu anda: </string>
+    <string name="contact_us"> Bize ulaşın </string>
+    <string name="version_label"> Sürüm </string>
+    <string name="enable_subtitles"> Altyazıları etkinleştir </string>
+    <string name="hint_email"> E-posta </string>
+    <string name="hint_message"> Mesajınız </string>
+    <string name="send_support"> Mesaj Gönder </string>
+    <string name="message_sended"> Mesaj başarıyla gönderildi </string>
+    <string name="error_mail_valide"> Lütfen geçerli bir E-posta girin </string>
 
-    <string name = "title_slide_1"> Wizly Video Uygulamasına Hoş Geldiniz </string>
-    <string name = "description_slide_1"> Wizly Video Uygulamasını indirdiğiniz için teşekkür ederiz. Harika içeriğe sahip bu
+    <string name="title_slide_1"> Wizly Video Uygulamasına Hoş Geldiniz </string>
+    <string name="description_slide_1"> Wizly Video Uygulamasını indirdiğiniz için teşekkür ederiz. Harika içeriğe sahip bu
         Android uygulamasının keyfini çıkarın. </string>
 
-    <string name = "title_slide_2"> Tümünü Buradan İzleyin </string>
-    <string name = "description_slide_2"> Tüm içeriği tek bir yerde izleyin: Filmler,
+    <string name="title_slide_2"> Tümünü Buradan İzleyin </string>
+    <string name="description_slide_2"> Tüm içeriği tek bir yerde izleyin: Filmler,
         Tv Dizileri, Canlı TV kanalları ve daha fazlası</string>
 
-    <string name = "title_slide_3"> Altyazıları Kullan </string>
-    <string name = "description_slide_3"> En sevdiğiniz Filmleri / TV Dizilerini altyazıları kullanarak orijinal dilinizle izleyin </string>
+    <string name="title_slide_3"> Altyazıları Kullan </string>
+    <string name="description_slide_3"> En sevdiğiniz Filmleri / TV Dizilerini altyazıları kullanarak orijinal dilinizle izleyin </string>
 
-    <string name = "title_slide_4"> İndirin ve daha sonra izleyin </string>
-    <string name = "description_slide_4"> Filmleri / TV Dizilerini İndirin, daha sonra izlemek için cihazınızda tutun </string>
+    <string name="title_slide_4"> İndirin ve daha sonra izleyin </string>
+    <string name="description_slide_4"> Filmleri / TV Dizilerini İndirin, daha sonra izlemek için cihazınızda tutun </string>
 
-    <string name = "title_slide_5"> Büyük Ekranda İzle </string>
-    <string name = "description_slide_5">
+    <string name="title_slide_5"> Büyük Ekranda İzle </string>
+    <string name="description_slide_5">
         Herhangi bir içerik Film / Dizi ve Canlı TV kanalını
         ekranınıza yayınlayın ve rahatça izleyin </string>
 
-    <string name = "dialog_text_no_ads_title"> Reklamları Kapat </string>
-    <string name = "dialog_text_no_premium_wallpapers_title"> Premium İçerik </string>
-    <string name = "dialog_text_no_premium_wallpapers_description"> Sınırsız Çıkartma Alın </string>
-    <string name = "dialog_text_no_ads_description"> Uygulamayı reklamsız daha ücretsiz kullanın </string>
-    <string name = "description_subsribte"> Paketimizle. Reklamsız bir deneyimin tadını çıkarabilirsiniz ve asıl eğlenceye odaklanın! </string>
-    <string name = "download_premium_content"> Premium içeriği indirin </string>
-    <string name = "play_premium_content"> Premium içeriği oynatın </string>
-    <string name = "use_content_for_free"> Artık bu premium içeriği ücretsiz olarak kullanabilirsiniz </string>
+    <string name="dialog_text_no_ads_title"> Reklamları Kapat </string>
+    <string name="dialog_text_no_premium_wallpapers_title"> Premium İçerik </string>
+    <string name="dialog_text_no_premium_wallpapers_description"> Sınırsız Çıkartma Alın </string>
+    <string name="dialog_text_no_ads_description"> Uygulamayı reklamsız daha ücretsiz kullanın </string>
+    <string name="description_subsribte"> Paketimizle. Reklamsız bir deneyimin tadını çıkarabilirsiniz ve asıl eğlenceye odaklanın! </string>
+    <string name="download_premium_content"> Premium içeriği indirin </string>
+    <string name="play_premium_content"> Premium içeriği oynatın </string>
+    <string name="use_content_for_free"> Artık bu premium içeriği ücretsiz olarak kullanabilirsiniz </string>
 
     <string name="AD_MOB_ENABLED_BANNER">true</string>
 
